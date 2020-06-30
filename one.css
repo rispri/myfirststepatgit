@@ -1,0 +1,9 @@
+h1{ text-align: center;
+color: blue; 
+}
+body{
+    background-color: burlywood  ;
+}
+ul{list-style-type: square;}
+li{list-style-type: decimal;}
+table{color: chartreuse;}
